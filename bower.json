@@ -1,0 +1,19 @@
+{
+  "name": "ioanirimia",
+  "description": "gaming",
+  "main": "server.js",
+  "authors": [
+    "Ioan Irimia"
+  ],
+  "license": "ISC",
+  "homepage": "www.ioanirimia.com",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "bootstrap": "^3.3.7",
+    "angular-route":"^1.6.1",
+    "angular-bootstrap":"^0.13.0"
+  },
+  "install":{
+    "path": "client/libs"
+  }
+}
